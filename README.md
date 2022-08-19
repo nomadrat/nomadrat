@@ -1,4 +1,13 @@
-Check out my blog https://abstractkitchen.com<br><br>And some repos:<br>https://github.com/abstractkitchen/flask-backbone<br>https://github.com/abstractkitchen/sitemapa
+# My articles:
+**[2022 Guide to Flask. With a Boilerplate](https://abstractkitchen.com/blog/flask-backbone/)**
+[How to Upload Files to DigitalOcean Spaces with Python](https://abstractkitchen.com/blog/how-to-upload-files-to-digitalocean-spaces-with-python/)
+[Importing CSV Files to PostgreSQL](https://abstractkitchen.com/blog/importing-csv-files-to-postgresql-databases/)
+[The Definitive Guide To Sitemaps With Python](https://abstractkitchen.com/blog/sitemaps-for-devs/)
+[A Short Guide To The Chinese Coordinate System](https://abstractkitchen.com/blog/a-short-guide-to-chinese-coordinate-system/)
+
+# Important repos:
+[Flask Boilerplate «Flask-Backbone»](https://github.com/abstractkitchen/flask-backbone)
+[Sitemapa Python Library](https://github.com/abstractkitchen/sitemapa)
 
 
 ## 🌐 Socials:
