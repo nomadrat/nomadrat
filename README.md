@@ -1,5 +1,5 @@
 # My articles
-**[2022 Guide to Flask. With a Boilerplate](https://abstractkitchen.com/blog/flask-backbone/)**<br>
+**[Flask Boilerplate and Your Guide to Flask in 2022. With SQLAlchemy.](https://abstractkitchen.com/blog/flask-backbone/)**<br>
 [How to Upload Files to DigitalOcean Spaces with Python](https://abstractkitchen.com/blog/how-to-upload-files-to-digitalocean-spaces-with-python/)<br>
 [Importing CSV Files to PostgreSQL](https://abstractkitchen.com/blog/importing-csv-files-to-postgresql-databases/)<br>
 [The Definitive Guide To Sitemaps With Python](https://abstractkitchen.com/blog/sitemaps-for-devs/)<br>
