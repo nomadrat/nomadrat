@@ -1,5 +1,5 @@
 # My articles
-**[Flask Boilerplate and Your Guide to Flask in 2022. With SQLAlchemy.](https://abstractkitchen.com/blog/flask-backbone/)**<br>
+**[Flask Boilerplate and Your Guide to Flask in 2023. With SQLAlchemy.](https://abstractkitchen.com/blog/flask-backbone/)**<br>
 [JavaScript Document Onload + TypeScript version](https://abstractkitchen.com/blog/javascript-dom-onload/)<br>
 [How to Create Jinja2 Filters in Flask](https://abstractkitchen.com/blog/how-to-create-custom-jinja-filters-in-flask/)<br>
 [How to Upload Files To Bunny.net Storage](https://abstractkitchen.com/blog/how-to-upload-files-to-bunnynet-storage/)<br>
